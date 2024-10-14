@@ -26,7 +26,3 @@ except KeyboardInterrupt:
 finally:
     ser.close()
 
-"""
-git config --global user.email "s.dvid@hotmail.com"
-git config --global user.name "Dvid9331"
-"""
